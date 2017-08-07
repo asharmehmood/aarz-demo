@@ -250,14 +250,7 @@ def makeWebhookResult(data):
         "contextOut": [],
         "source": "apiai-onlinestore-shipping"
     }
-def extract_titles(req):
-    i=0
-	title_List=[]
-	url_list
-	while (i <2):
- 		title_List.append(row_title[i])
-		url_list.append("https://www.aarz.pk/property-detail/"+row_slug[1])
-        i+=1
+
 if __name__ == '__main__':
     port = int(os.getenv('PORT', 5000))
 
