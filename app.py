@@ -170,7 +170,7 @@ def recommendationalgo():
 		buy1[s_id].update(cominglist)
 
 
-	#print (buy1)
+	print ("thissssssssssssssssssssssssssssss isssssssssssssssssssssss buyyyyyyy1:",buy1)
 
 
 
